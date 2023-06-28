@@ -51,4 +51,4 @@ To use this movie review analysis system:
 6. Refer to the documentation within the notebook files for detailed explanations and instructions.
    
 # Credits
-This project was inspired by the "NLP - Natural Language Processing with Python" course on Udemy, taught by Jose Portilla. The code and concepts from the course were utilized to implement the sentiment analysis and text classification components.
+This project was built as part of the "NLP - Natural Language Processing with Python" course on Udemy taught by Jose Portilla.
